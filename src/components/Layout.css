@@ -1,0 +1,27 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+.total-price {
+  text-align: center;
+  font-size: 20px;
+  margin: 10px auto;
+  background-color: white;
+  width: 203px;
+  padding: 15px 8px;
+  border-radius: 5px;
+}
+.logout-btn{
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  /* color: black; */
+  background: transparent;
+}
+.logout-btn:hover{
+  color: wheat;
+  
+}

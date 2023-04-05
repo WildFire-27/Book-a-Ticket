@@ -1,0 +1,20 @@
+.header-nav {
+  position: fixed;
+  box-shadow: 0px 10px 20px #ccc;
+  margin-bottom: 10px;
+}
+.header-ul {
+  display: inline-flex;
+  flex: 1 1;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  position: fixed;
+  width: -webkit-fill-available;
+  background-color: #D7A86E;
+  color: black;
+  padding: 0 50px;
+}
+.header-h2 {
+  font-size: 30px;
+}
