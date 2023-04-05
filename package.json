@@ -1,6 +1,7 @@
 {
   "name": "book-a-ticket",
   "version": "0.1.0",
+  "homepage": "https://github.com/WildFire-27/Book-a-Ticket",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.2",
@@ -12,6 +13,8 @@
     "react-scripts": "5.0.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -31,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
