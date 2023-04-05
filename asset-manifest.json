@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WildFire-27/Book-a-Ticket/static/css/main.251363cc.css",
+    "main.js": "/WildFire-27/Book-a-Ticket/static/js/main.760f470c.js",
+    "index.html": "/WildFire-27/Book-a-Ticket/index.html",
+    "main.251363cc.css.map": "/WildFire-27/Book-a-Ticket/static/css/main.251363cc.css.map",
+    "main.760f470c.js.map": "/WildFire-27/Book-a-Ticket/static/js/main.760f470c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.251363cc.css",
+    "static/js/main.760f470c.js"
+  ]
+}
